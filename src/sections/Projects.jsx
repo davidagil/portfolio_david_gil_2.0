@@ -4,7 +4,7 @@ import AnimatedBorderButton from '../components/AnimatedBorderButton';
 // Images
 import Cores from "../assets/Battlefield Wireframe v2 - Final (6).png";
 import SpentIt from "../assets/Thumbnail.png";
-import Calaxy from "../assets/Calaxy.png";
+import Calaxy from "../assets/calaxy.png";
 import DashboardRedesign from "../assets/Orgs Tab.png";
 
 const projects = [
