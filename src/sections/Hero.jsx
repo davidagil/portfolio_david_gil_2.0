@@ -1,10 +1,10 @@
-import React, { useMemo } from 'react';
+import React from 'react';
 import Button from '../components/Button';
 import AnimatedBorderButton from '../components/AnimatedBorderButton';
 import { ArrowRight, Download, Github, Linkedin, Youtube, ChevronDown } from 'lucide-react';
 
 // Images
-import ProfilePic from '../assets/IMG_4570.jpeg'
+import ProfilePic from '../assets/portrait.jpeg'
 import Resume from '../assets/david_gil_resume.pdf';
 
 const skills = [
